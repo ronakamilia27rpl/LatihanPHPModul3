@@ -12,3 +12,7 @@ Latihan 5
 ![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul3/blob/master/Latihan5.3.png)
 Latihan 6
 ![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul3/blob/master/Latihan6.3.png)
+PRAKTIKUM
+![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul3/blob/master/login%20site.png)
+![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul3/blob/master/login%20berhasil.png)
+![alt text](https://github.com/ronakamilia27rpl/LatihanPHPModul3/blob/master/sigin%20site.png)
